@@ -1,6 +1,6 @@
 # Cognizant Digital Nurture 5.0 - DotNet FSE Upskilling and Deepskilling
 
-This repository contains solutions developed as part of the Cognizant Digital Nurture 5.0 Full Stack Engineer (DotNet) Upskilling Program.
+This repository contains solutions developed as part of the Cognizant Digital Nurture 5.0 Full Stack Engineer (DotNet) Upskilling and Deepskilling Program.
 
 ## Modules Covered
 
